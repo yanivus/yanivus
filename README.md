@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/yanivus101"><img src="https://api.daily.dev/devcards/7920f7cbebf042c093a1eb1d6a517a91.png?r=spq" width="400" alt="Suvinay Sinha's Dev Card"/></a>
+<a href="https://app.daily.dev/yanivus101"><img src="https://github.com/yanivus/yanivus/blob/881d986cf3248cf3958f0acb91eaf1e17e054839/devcard.svg" width="400" alt="Suvinay Sinha's Dev Card"/></a>
+
