@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/yanivus101"><img src="https://api.daily.dev/devcards/7920f7cbebf042c093a1eb1d6a517a91.png?r=spq" width="400" alt="Suvinay Sinha's Dev Card"/></a>
